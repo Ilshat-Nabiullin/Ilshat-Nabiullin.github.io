@@ -536,7 +536,8 @@ ul.accordion-list li div.answer p {
     color: #848fac;
   }
   .s5-text {
-    margin-right: -50px;
+    width: 100%;
+    text-align: center;
   }
   .s6-text p {
     margin-left: 50px;
@@ -608,7 +609,7 @@ ul.accordion-list li div.answer p {
     margin-top: -30px;
   }
   .s9-text {
-    width: 450px;
+    width: 350px;
   }
   .last-main {
     text-align: center;
