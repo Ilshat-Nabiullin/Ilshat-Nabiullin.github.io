@@ -149,4 +149,41 @@
 	font-size: 12px;
 	margin-top: 140px;
 }
-}	
+}
+@media (max-width: 576px) {
+	.logo {
+	width: 200px;
+	height: 70px;
+	margin-top: 50px;
+	
+}
+	.s1-a1 a{
+	margin-right: 20px;
+	margin-top: -85px;
+	width: 50%;
+}
+	.s1-a2 a{
+	margin-right: 20px;
+	margin-top: -30px;
+	width: 50%;
+}
+.s13-1 img {
+    width: 180px;
+	height: 60px;
+	margin-top: 10px;
+}
+.s13-2 a {
+	text-align: left;
+	margin-top: 15px;
+	font-size: 16px;
+	margin-left: 10px;    
+}
+.s13-a1 {
+	padding-top: 10px;
+}
+.s13-3 p {
+	font-size: 14px;
+	margin-top: -40px;
+}
+}
+	
