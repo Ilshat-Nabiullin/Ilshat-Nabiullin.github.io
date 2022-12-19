@@ -152,20 +152,24 @@
 }
 @media (max-width: 576px) {
 	.logo {
-	width: 200px;
-	height: 70px;
+	width: 100%;
+	height: 50%;
 	margin-top: 50px;
 	
 }
 	.s1-a1 a{
+		font-size: 13px;
 	margin-right: 20px;
-	margin-top: -85px;
-	width: 50%;
+	margin-top: -65px;
+	width: 45%;
+	height: 40px;
 }
 	.s1-a2 a{
+		font-size: 13px;
 	margin-right: 20px;
-	margin-top: -30px;
-	width: 50%;
+	margin-top: -20px;
+	width: 45%;
+	height: 40px;
 }
 .s13-1 img {
     width: 180px;
