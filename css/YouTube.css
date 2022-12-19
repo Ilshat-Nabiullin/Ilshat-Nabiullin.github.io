@@ -1,0 +1,189 @@
+.logo {
+	width: 220px;
+	height: 70px;
+	margin-top: 30px;
+}
+.section1 a{
+	text-decoration: none;
+	text-align: center;
+	color: #000;
+	float: right;
+	border: 2px solid black;
+	padding: 8px;
+	margin-top: 40px;
+	background-color: #fff;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+.section1 a:hover{
+    background-color: #1C1C1C;
+    color: #FFD800;
+}
+.section1 a:active{
+    filter: brightness(80%);
+}
+.s1-a1 a{
+	width: 190px;
+	height: 45px;
+	margin-right: -15px;
+}
+.s1-a2 a{
+	width: 190px;
+	height: 45px;
+}
+.s2-h1 {
+	height: 140px;
+	background-color: black;
+	margin-top: 50px;
+	border-radius: 10px;
+	color: #FFD800;
+	text-align: center;
+}
+.s2-h1 h1 {
+	margin-top: 20px;
+}
+.s3-1 p {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.s3-1 h2 {
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.s3-1 h3 {
+	font-size: 28px;
+	margin-bottom: 20px;
+}
+.s3-1 img {
+	width: 100%;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+.s13 {
+	margin-top: 110px;
+	height: 300px;
+	background-color: #202124;
+}
+.s13-1 img {
+	margin-top: 140px;
+    width: 220px;
+	height: 70px;
+}
+.s13-2 a {
+    text-decoration: none;
+	color: #FFD800;
+	display: block;
+	margin-top: 15px;
+	margin-right: 20px;
+	font-size: 20px;
+    margin-left: 80px;
+}
+.s13-a1 {
+	
+	padding-top: 40px;
+}
+.s13-3 p {
+	color: #FFD800;
+	font-size: 20px;
+	margin-top: 205px;
+}
+@media (max-width: 1400px) {
+	.s1-a1 a{
+	margin-right: 20px;
+}
+}
+@media (max-width: 1200px) {
+	.s1-a1 a{
+	margin-right: 50px;
+}
+}
+@media (max-width: 992px) {
+	.s1-a1 a{
+	margin-right: 80px;
+}
+.s13-1 img {
+	margin-top: 130px;
+    width: 200px;
+	height: 70px;
+}
+.s13-2 a { 
+    text-align: center;
+	margin-top: 15px;
+	font-size: 18px;
+}
+.s13-a1 {
+	padding-top: 50px;
+}
+.s13-3 p {
+	font-size: 17px;
+	margin-top: 210px;
+	float: right;
+}
+}
+@media (max-width: 768px) {
+.section1 a{
+	margin-top: 10px;
+}
+.s1-a1 a{
+	margin-right: 0;
+	margin-top: 45px;
+}
+.s2-h1 {
+	height: 155px;
+}
+
+.s13-1 img {
+    width: 160px;
+	height: 50px;
+}
+.s13-2 a {
+	margin-top: 15px;
+	font-size: 14px;    
+}
+.s13-a1 {
+	padding-top: 55px;
+}
+.s13-3 p {
+	font-size: 12px;
+	margin-top: 140px;
+}
+}
+@media (max-width: 576px) {
+	.logo {
+	width: 200px;
+	height: 70px;
+	margin-top: 50px;
+	
+}
+	.s1-a1 a{
+	margin-right: 20px;
+	margin-top: -85px;
+	width: 50%;
+}
+	.s1-a2 a{
+	margin-right: 20px;
+	margin-top: -30px;
+	width: 50%;
+}
+.s13-1 img {
+    width: 180px;
+	height: 60px;
+	margin-top: 10px;
+}
+.s13-2 a {
+	text-align: left;
+	margin-top: 15px;
+	font-size: 16px;
+	margin-left: 10px;    
+}
+.s13-a1 {
+	padding-top: 10px;
+}
+.s13-3 p {
+	font-size: 14px;
+	margin-top: -40px;
+}
+}
+	
